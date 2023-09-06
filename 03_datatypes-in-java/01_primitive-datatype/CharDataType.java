@@ -5,6 +5,9 @@ public class CharDataType {
         System.out.println("Max Value char datatype = " + Character.MAX_VALUE);
         System.out.println("Min Value char datatype = " + Character.MIN_VALUE);
         
+        System.out.println("Max Value char datatype = " + (int)Character.MAX_VALUE);
+        System.out.println("Min Value char datatype = " + (int)Character.MIN_VALUE);
+        
         char a = 'a';
         char b = '@';
         char c = '0';
